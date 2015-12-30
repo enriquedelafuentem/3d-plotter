@@ -1,0 +1,1 @@
+plots functions in 3d using wolfram alpha
